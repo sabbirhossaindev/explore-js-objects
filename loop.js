@@ -15,13 +15,13 @@ bottle['color']
 bottle[key]
 */
 for(const key of keys){
-    // console.log(key, bottle[key]);
+    console.log(key, bottle[key]);
 }
 
 // for in loop
 for( const key in bottle){
     const value = bottle[key];
-    // console.log(key, value);
+    console.log(key, value);
 }
 
 // advanced 
