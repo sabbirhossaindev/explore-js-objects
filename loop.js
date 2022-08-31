@@ -30,3 +30,6 @@ console.log(pair)
 for(const [key, value] of Object.entries(bottle)){
     console.log(key, value);
 }
+
+// array er jonno for of
+// object er jonno for in
